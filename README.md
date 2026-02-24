@@ -1,8 +1,8 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Mainul Hossain**, a DevOps engineer based in Bangladesh.
+I'm [**Mainul**](https://mainulhossain123.github.io/), a DevOps/SRE engineer based in Bangladesh.
 
-I work on cloud platforms and backend systems as well as the occasional frontend work, helping teams run software more reliably through automation, better deployments, and simpler infrastructure. My focus is on reducing operational friction, improving system stability, and keeping platforms cost-efficient.
+Currently working at [**Optimizely**](https://www.optimizely.com/), I work on cloud platforms and backend systems as well as the occasional frontend work, helping teams run software more reliably through automation, better deployments, and simpler infrastructure. My focus is on reducing operational friction, improving system stability, and keeping platforms cost-efficient.
 
 I enjoy working on problems that sit behind the scenes; the kind that users never notice when things are done right. I’ve spent time improving CI/CD pipelines, managing cloud environments, and cleaning up systems that quietly grow too complex over time.
 
