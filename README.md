@@ -11,3 +11,4 @@ Outside of work, I like following technology trends, talking about Tech, particu
 #### Let's connect!
 [<img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" />](https://mainulhossain123.github.io/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/mainul-hossain-586a5614b/)
+[<img alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" />](https://github.com/mainulhossain123/mainulhossain123/raw/main/Mainul_Hossain_Resume.pdf)
