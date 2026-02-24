@@ -6,7 +6,7 @@ Currently working at [**Optimizely**](https://www.optimizely.com/), I work on cl
 
 I enjoy working on problems that sit behind the scenes; the kind that users never notice when things are done right. I’ve spent time improving CI/CD pipelines, managing cloud environments, and cleaning up systems that quietly grow too complex over time.
 
-Outside of work, I like following technology trends, talking about Tech, particularly HARDWARE !!, thinking about how systems evolve at scale, and experimenting with ideas that make infrastructure easier to reason about.
+Outside of work, I like following technology trends, talking about Tech, particularly HARDWARE !!, thinking about how systems evolve at scale, experimenting with ideas that make infrastructure easier to reason about and last definitely not the least Astronomy and Phsyics.
 
 #### Let's connect!
 [<img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" />](https://mainulhossain123.github.io/)
